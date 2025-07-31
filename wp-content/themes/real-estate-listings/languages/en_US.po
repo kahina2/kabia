@@ -1,0 +1,439 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Real Estate Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-31 13:26+0100\n"
+"PO-Revision-Date: 2024-05-31 13:26+0100\n"
+"Last-Translator: \n"
+"Language-Team: AyeCode Ltd <contact@ayecode.io>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-KeywordsList: __;__ngettext:1,2;__ngettext_noop:1,2;_c;_e;_ex:1,2c;"
+"_n:1,2;_n_noop:1,2;_nc:4c,1,2;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;gettext;"
+"gettext_noop\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.4.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-blockstrap-admin-child.php:16
+msgid "Real Estate"
+msgstr "Real Estate"
+
+#: includes/class-blockstrap-admin-child.php:26
+msgid "BlockStrap Builder"
+msgstr ""
+
+#: includes/class-blockstrap-admin-child.php:27
+msgid "GeoDirectory"
+msgstr ""
+
+#: includes/class-blockstrap-admin-child.php:28
+msgid "UsersWP"
+msgstr ""
+
+#: includes/pattern-filters/content.php:86
+#: includes/pattern-filters/content.php:87
+#: includes/pattern-filters/content.php:546
+#: includes/pattern-filters/content.php:547
+#: includes/pattern-filters/content.php:583
+#: includes/pattern-filters/content.php:584
+#: includes/pattern-filters/content.php:627
+#: includes/pattern-filters/content.php:628
+msgid "Share:"
+msgstr ""
+
+#: includes/pattern-filters/content.php:213
+#: includes/pattern-filters/content.php:214
+#: includes/pattern-filters/hero.php:81 includes/pattern-filters/hero.php:82
+msgid "Share"
+msgstr ""
+
+#: includes/pattern-filters/content.php:239
+#: includes/pattern-filters/content.php:240
+msgid "Overview"
+msgstr ""
+
+#: includes/pattern-filters/content.php:249
+#: includes/pattern-filters/content.php:250
+msgid "Description"
+msgstr ""
+
+#: includes/pattern-filters/content.php:259
+#: includes/pattern-filters/content.php:260
+msgid "Mortgage Calculator"
+msgstr ""
+
+#: includes/pattern-filters/content.php:269
+#: includes/pattern-filters/content.php:270
+msgid "Energy Performance"
+msgstr ""
+
+#: includes/pattern-filters/content.php:279
+#: includes/pattern-filters/content.php:280
+msgid "Walk Score"
+msgstr ""
+
+#: includes/pattern-filters/content.php:289
+#: includes/pattern-filters/content.php:290
+msgid "Features"
+msgstr ""
+
+#: includes/pattern-filters/content.php:299
+#: includes/pattern-filters/content.php:300
+msgid "Details"
+msgstr ""
+
+#: includes/pattern-filters/content.php:309
+#: includes/pattern-filters/content.php:310
+msgid "Address"
+msgstr ""
+
+#: includes/pattern-filters/content.php:323
+#: includes/pattern-filters/content.php:324
+msgid "Video Tour"
+msgstr ""
+
+#: includes/pattern-filters/content.php:333
+#: includes/pattern-filters/content.php:334
+msgid "360° Virtual Tour"
+msgstr ""
+
+#: includes/pattern-filters/content.php:343
+#: includes/pattern-filters/content.php:344
+msgid "Reviews"
+msgstr ""
+
+#: includes/pattern-filters/content.php:356
+#: includes/pattern-filters/content.php:357
+msgid "Contact Agent"
+msgstr ""
+
+#: includes/pattern-filters/content.php:362
+#: includes/pattern-filters/content.php:363
+msgid "Send Message"
+msgstr ""
+
+#: includes/pattern-filters/content.php:366
+#: includes/pattern-filters/content.php:367
+msgid "Call"
+msgstr ""
+
+#: includes/pattern-filters/content.php:385
+msgid "Similar places"
+msgstr ""
+
+#: includes/pattern-filters/content.php:675
+#: includes/pattern-filters/content.php:676
+msgid "It looks like your lost"
+msgstr ""
+
+#: includes/pattern-filters/content.php:675
+#: includes/pattern-filters/content.php:676
+msgid ""
+"Try the main navigation or click the button below to go to the homepage."
+msgstr ""
+
+#: includes/pattern-filters/content.php:772
+#: includes/pattern-filters/content.php:773
+msgid "Featured Properties"
+msgstr ""
+
+#: includes/pattern-filters/content.php:780
+#: includes/pattern-filters/content.php:781
+msgid "Recently Added Properties"
+msgstr ""
+
+#: includes/pattern-filters/content.php:795
+#: includes/pattern-filters/content.php:796
+msgid "Discover how we can help"
+msgstr ""
+
+#: includes/pattern-filters/content.php:801
+#: includes/pattern-filters/content.php:802
+msgid "Sell your property"
+msgstr ""
+
+#: includes/pattern-filters/content.php:807
+#: includes/pattern-filters/content.php:808
+msgid "Rent your property"
+msgstr ""
+
+#: includes/pattern-filters/content.php:813
+#: includes/pattern-filters/content.php:814
+msgid "Get a loan"
+msgstr ""
+
+#: includes/pattern-filters/content.php:819
+#: includes/pattern-filters/content.php:820
+msgid "Get Listed"
+msgstr ""
+
+#: includes/pattern-filters/content.php:832
+#: includes/pattern-filters/content.php:833
+msgid "Find Your Perfect Home"
+msgstr ""
+
+#: includes/pattern-filters/content.php:859
+#: includes/pattern-filters/content.php:860
+msgid ""
+"Need help getting started? Simply get in contact today and we will help you "
+"through the process"
+msgstr ""
+
+#: includes/pattern-filters/content.php:864
+msgid ""
+"Navigating the world of real estate can often feel overwhelming, whether "
+"you're a first-time buyer, a seasoned investor, or someone looking to sell "
+"their property. At GeoDirectory we're committed to simplifying this journey "
+"for you. Our dedicated team of real estate professionals understands the "
+"complexities of the market and is ready to demystify them for you."
+msgstr ""
+
+#: includes/pattern-filters/content.php:883
+#: includes/pattern-filters/content.php:884
+msgid "Testimonials"
+msgstr ""
+
+#: includes/pattern-filters/content.php:900
+msgid ""
+"Using the Mortgage Calculator completely changed the way I approached buying "
+"my first home. It's user-friendly and gave me the clarity I needed. A game-"
+"changer!"
+msgstr ""
+
+#: includes/pattern-filters/content.php:913
+#: includes/pattern-filters/content.php:914
+msgid "Amanda R"
+msgstr ""
+
+#: includes/pattern-filters/content.php:930
+msgid ""
+"Being new to real estate, I had so many questions. Their team was patient, "
+"knowledgeable, and made me feel at ease. Grateful for their guidance!"
+msgstr ""
+
+#: includes/pattern-filters/content.php:943
+#: includes/pattern-filters/content.php:944
+msgid "Jason M"
+msgstr ""
+
+#: includes/pattern-filters/content.php:973
+#: includes/pattern-filters/content.php:974
+msgid "Terrence K"
+msgstr ""
+
+#: includes/pattern-filters/content.php:1003
+#: includes/pattern-filters/content.php:1004
+msgid "Luisa F"
+msgstr ""
+
+#: includes/pattern-filters/content.php:1029
+#: includes/pattern-filters/content.php:1030
+msgid "Use our Mortgage Calculator to manage your budget"
+msgstr ""
+
+#: includes/pattern-filters/content.php:1034
+msgid ""
+"Our advanced Mortgage Calculator is more than just a simple tool – it's your "
+"financial compass in the vast ocean of real estate. Designed with user-"
+"friendliness at its core, our calculator allows you to input various "
+"parameters such as loan amount, interest rate, loan term, and property "
+"taxes. The result? A clear, concise snapshot of your monthly repayments and "
+"overall loan cost."
+msgstr ""
+
+#: includes/pattern-filters/content.php:1053
+#: includes/pattern-filters/content.php:1054
+msgid "Destinations nearby"
+msgstr ""
+
+#: includes/pattern-filters/footer.php:48
+#: includes/pattern-filters/footer.php:49
+#: includes/pattern-filters/header.php:28
+#: includes/pattern-filters/header.php:29
+msgid "Real"
+msgstr ""
+
+#: includes/pattern-filters/footer.php:48
+#: includes/pattern-filters/footer.php:49
+#: includes/pattern-filters/header.php:28
+#: includes/pattern-filters/header.php:29
+msgid "estate"
+msgstr ""
+
+#: includes/pattern-filters/footer.php:64
+#: includes/pattern-filters/footer.php:65
+msgid "Quick Links"
+msgstr ""
+
+#: includes/pattern-filters/footer.php:69
+#: includes/pattern-filters/footer.php:70
+msgid "Accommodation"
+msgstr ""
+
+#: includes/pattern-filters/footer.php:73
+msgid "Food \\u0026 Drink"
+msgstr ""
+
+#: includes/pattern-filters/footer.php:74
+msgid "Food &amp; Drink"
+msgstr ""
+
+#: includes/pattern-filters/footer.php:77
+#: includes/pattern-filters/footer.php:78
+msgid "Shopping"
+msgstr ""
+
+#: includes/pattern-filters/footer.php:81
+msgid "Art \\u0026 History"
+msgstr ""
+
+#: includes/pattern-filters/footer.php:82
+msgid "Art &amp; History"
+msgstr ""
+
+#: includes/pattern-filters/footer.php:85
+#: includes/pattern-filters/footer.php:86
+msgid "Entertainment"
+msgstr ""
+
+#: includes/pattern-filters/footer.php:89
+#: includes/pattern-filters/footer.php:90
+msgid "Carsharing"
+msgstr ""
+
+#: includes/pattern-filters/footer.php:96
+#: includes/pattern-filters/footer.php:97
+#: includes/pattern-filters/footer.php:180
+#: includes/pattern-filters/footer.php:181
+msgid "About"
+msgstr ""
+
+#: includes/pattern-filters/footer.php:101
+#: includes/pattern-filters/footer.php:102
+msgid "My account"
+msgstr ""
+
+#: includes/pattern-filters/footer.php:105
+#: includes/pattern-filters/footer.php:106
+msgid "Wishlist"
+msgstr ""
+
+#: includes/pattern-filters/footer.php:109
+#: includes/pattern-filters/footer.php:110
+msgid "My listings"
+msgstr ""
+
+#: includes/pattern-filters/footer.php:113
+#: includes/pattern-filters/footer.php:114
+#: includes/pattern-filters/menu.php:100 includes/pattern-filters/menu.php:101
+msgid "Add listing"
+msgstr ""
+
+#: includes/pattern-filters/footer.php:117
+#: includes/pattern-filters/footer.php:118
+msgid "News"
+msgstr ""
+
+#: includes/pattern-filters/footer.php:125
+#: includes/pattern-filters/footer.php:126
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/pattern-filters/footer.php:174
+msgid "Copyright © 2023 | Powered by"
+msgstr ""
+
+#: includes/pattern-filters/footer.php:184
+#: includes/pattern-filters/footer.php:185 includes/pattern-filters/menu.php:60
+#: includes/pattern-filters/menu.php:61
+msgid "Blog"
+msgstr ""
+
+#: includes/pattern-filters/footer.php:188
+#: includes/pattern-filters/footer.php:189
+msgid "Support"
+msgstr ""
+
+#: includes/pattern-filters/footer.php:192
+#: includes/pattern-filters/footer.php:193
+msgid "Contacts"
+msgstr ""
+
+#: includes/pattern-filters/header.php:24
+msgid "Skip to main content"
+msgstr ""
+
+#: includes/pattern-filters/hero.php:81 includes/pattern-filters/hero.php:82
+msgid "Check this out!"
+msgstr ""
+
+#: includes/pattern-filters/hero.php:151 includes/pattern-filters/hero.php:152
+msgid "404 Page not found"
+msgstr ""
+
+#: includes/pattern-filters/hero.php:181 includes/pattern-filters/hero.php:182
+msgid "Your Dream Home Starts Here"
+msgstr ""
+
+#: includes/pattern-filters/menu.php:31 includes/pattern-filters/menu.php:32
+msgid "Set Location"
+msgstr ""
+
+#: includes/pattern-filters/menu.php:77 includes/pattern-filters/menu.php:78
+#: includes/pattern-filters/menu.php:88 includes/pattern-filters/menu.php:89
+msgid "Sign in"
+msgstr ""
+
+#: includes/pattern-filters/menu.php:81 includes/pattern-filters/menu.php:82
+#: includes/pattern-filters/menu.php:92 includes/pattern-filters/menu.php:93
+msgid "Sign out"
+msgstr ""
+
+#: includes/register-patterns.php:11
+msgid "Header Transparent"
+msgstr ""
+
+#: includes/register-patterns.php:41
+msgid "Hero home"
+msgstr ""
+
+#: includes/register-patterns.php:48
+msgid ""
+"Real Estate Listings is a lightweight and minimalist WordPress theme that "
+"was built specifically to work seamlessly with the plugins: BlockStrap page "
+"builder and GeoDirectory."
+msgstr ""
+
+#, fuzzy
+#~ msgid "Location"
+#~ msgstr "'Lokácia"
+
+#, fuzzy
+#~ msgid "Enter Your Location"
+#~ msgstr "'Lokácia"
+
+#, fuzzy
+#~ msgid "GT > Location Select"
+#~ msgstr "'Lokácia"
+
+#, fuzzy
+#~ msgid "Homepage Location description"
+#~ msgstr "'Lokácia"
+
+#, fuzzy
+#~ msgid "Location Settings"
+#~ msgstr "'Lokácia"
+
+#, fuzzy
+#~ msgid "Location database checks"
+#~ msgstr "'Lokácia"
+
+#, fuzzy
+#~ msgid "Select location order"
+#~ msgstr "'Lokácia"

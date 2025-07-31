@@ -1,0 +1,71 @@
+<?php return array(
+    'root' => array(
+        'name' => 'ayecode-connect/ayecode-connect',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '0e83343a4800f463e9b41b1afc50b5948c629a55',
+        'type' => 'project',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => true,
+    ),
+    'versions' => array(
+        'ayecode-connect/ayecode-connect' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '0e83343a4800f463e9b41b1afc50b5948c629a55',
+            'type' => 'project',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'ayecode/wp-ayecode-ui' => array(
+            'pretty_version' => '0.2.36',
+            'version' => '0.2.36.0',
+            'reference' => '4efdfb8d6929d4ed5c9ec7cfbbd78b848d72ccf5',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../ayecode/wp-ayecode-ui',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'ayecode/wp-font-awesome-settings' => array(
+            'pretty_version' => '1.1.7',
+            'version' => '1.1.7.0',
+            'reference' => 'f52f48d05ff760eb1e22e747a2d011c669f25ed1',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../ayecode/wp-font-awesome-settings',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'ayecode/wp-super-duper' => array(
+            'pretty_version' => '1.2.22',
+            'version' => '1.2.22.0',
+            'reference' => 'ed2caeb00da6c5306261077890e756e19bb2dbc4',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../ayecode/wp-super-duper',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'composer/installers' => array(
+            'pretty_version' => '1.x-dev',
+            'version' => '1.9999999.9999999.9999999-dev',
+            'reference' => '894a0b5c5d34c88b69b097f2aae1439730fa6836',
+            'type' => 'composer-plugin',
+            'install_path' => __DIR__ . '/./installers',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'roundcube/plugin-installer' => array(
+            'dev_requirement' => false,
+            'replaced' => array(
+                0 => '*',
+            ),
+        ),
+        'shama/baton' => array(
+            'dev_requirement' => false,
+            'replaced' => array(
+                0 => '*',
+            ),
+        ),
+    ),
+);

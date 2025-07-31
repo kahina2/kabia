@@ -1,0 +1,74 @@
+<?php
+/**
+ * The main template file
+ *
+ * This is the most generic template file in a WordPress theme
+ * and one of the two required files for a theme (the other being style.css).
+ * It is used to display a page when nothing more specific matches a query.
+ * E.g., it puts together the home page when no home.php file exists.
+ *
+ * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
+ *
+ * @package real-estate-elementor
+ */
+
+get_header();
+?>
+<?php
+    $sidebar_layout = get_theme_mod('real_estate_elementor_sidebar_layout_section', 'right');
+    if ($sidebar_layout == 'left') {
+        $sidebar_layout = 'has-left-sidebar';
+    } elseif ($sidebar_layout == 'right') {
+        $sidebar_layout = 'has-right-sidebar';
+    } elseif ($sidebar_layout == 'no') {
+        $sidebar_layout = 'no-sidebar';
+    }
+?>
+	
+<!-- Page Breadcrumb Start -->
+<?php  real_estate_elementor_breadbrumb(); ?>
+<!-- Page Breadcrumb Ends -->
+
+<?php
+if ( have_posts() ) : ?>
+
+    <!-- blog detail start-->
+    <div class="sp-100 bg-w">
+        <div class="container">
+            <div class="row <?php echo esc_attr($sidebar_layout); ?>">
+                <div class="col-lg-8">
+                    <div class="row">
+                        <?php while ( have_posts() ) : the_post(); ?>
+                            <div class="col-md-6">
+                                <?php get_template_part( 'template-parts/content', get_post_type() ); ?>
+                            </div>
+                        <?php endwhile; ?>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-12 text-center">
+                            <div class="pagination mt-5">
+                                <?php echo paginate_links(); ?>
+                            </div>
+                        </div>
+                    </div>
+                </div>	
+				
+				<?php
+                if (($sidebar_layout == 'has-left-sidebar') || ($sidebar_layout == 'has-right-sidebar')) { ?>
+                    <div class="col-lg-4">
+                        <?php get_sidebar(); ?>
+                    </div>
+                <?php } ?>
+            </div>
+        </div>
+    </div>
+</div>
+<?php
+else :
+    get_template_part( 'template-parts/content', 'none' );
+endif;
+?>
+
+<?php
+get_footer();

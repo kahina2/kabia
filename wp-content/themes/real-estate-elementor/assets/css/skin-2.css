@@ -1,0 +1,150 @@
+
+::-webkit-scrollbar-thumb,
+::-webkit-scrollbar-thumb:hover {
+    background: #007bff;
+}
+.form-control:focus,
+.form-control:hover {
+    border-color: #007bff !important;
+}
+.bg-theme{
+    background-color: #007bff;
+}
+h5 a:hover, h6 a:hover {
+    color: #007bff;
+}
+.c-theme {
+    color:#007bff;
+}
+.all-title .title-sep {
+    fill: #007bff;
+}
+/*  btn-one */
+.btn-one{
+    background-color: #007bff;
+}
+.btn-one:hover{
+    color:#007bff;
+}
+
+
+/*  btn-two */
+
+.btn-two{
+    color: #007bff;
+}
+
+.btn-two:before, 
+.btn-two:after {
+    border-top-color:#007bff;
+    border-bottom-color: #007bff;
+}
+#c-scroll:after{
+    border-bottom-color: #007bff;
+}
+#c-scroll {
+    background-color: #007bff;
+}
+#primary-menu .nav-item:hover .nav-link {
+    color: #007bff;
+}
+.navbar-toggler-icon{
+    background-color: #007bff;
+}
+.dropdown-item > a::before {
+    background-color: #007bff;
+}
+/*#primary-menu .dropdown-menu .dropdown-item:hover>a {
+    color: #007bff;
+}*/
+
+.service-box2::after{
+    background-color: #007bff;
+}
+
+.title-sep2::after {
+    background-color:#007bff;
+}
+.list-2 li:before {
+    background-color:#007bff;
+}
+.filter-btn.active:before,
+.filter-btn.active:after {
+    background-color: #007bff;
+}
+.team-two .t-socials a:hover{
+    color: #007bff;
+}
+.team-two:hover{
+    border-color:  #007bff;
+}
+.team-slider-two.owl-theme .owl-nav [class*=owl-]:hover{
+    color: #007bff;  
+ }
+ .service-box3 h5::after {
+    background-color: #007bff;
+}
+.service-box:hover .service-content{
+    background-color:#007bff;
+    border-color: #007bff;
+}
+ .foot-title h4::after {
+    background-color: #007bff;
+ }
+ .address i,
+ .news-content p, 
+ .news-content p i,
+ .quick-link li a:hover,
+ .foot-socials a:hover,
+ .foot-bottom a,
+ .quick-link li a:hover::after {
+    color: #007bff;
+}
+.navbar-nav .nav-item .mega-heading {
+    color: #007bff;
+}
+.cta {
+    background-color: #007bff;
+}
+.counter-box:after {
+    background-color: #007bff;
+}
+.banner-box:hover h5,
+.banner-link li span {
+    color: #007bff;
+}
+
+.blog-item:hover .date,
+.banner-box::after,
+.class-box:hover h5:before, 
+.class-box:hover h5:after{
+    background-color: #007bff;
+}
+.price-box .amount::after {
+    background:#007bff;
+}
+.price-box .amount::after,
+.amount::before{
+    background-color: #007bff;
+}
+
+.price-box2:hover h5,
+.price-box:hover h5 {
+    color: #007bff;
+}
+.price-content h5::after {
+    background-color: #007bff;
+}
+.programs-slider-one .swiper-slide-active h5 {
+    color:  #007bff;
+}
+.slider-wrap .swiper-button-prev:hover::after, 
+.slider-wrap .swiper-button-next:hover::after {
+    color: #007bff;
+}
+.team-one .team-social {
+    background-color:#007bff;
+}
+.vid-btn:hover {
+    color: #007bff;
+}
